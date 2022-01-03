@@ -1,0 +1,8 @@
+# python venv
+/env
+
+# download files
+/cache
+
+#python cache
+/__pycache__
